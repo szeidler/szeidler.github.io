@@ -8,6 +8,6 @@
 
 1. watches for the incoming file `wodby.aliases.drushrc.php` in the `~/Downloads` folder
 2. moves it to `~/.drush/wodby.aliases.drushrc.php`
-3. performs a `drush cc all`
+3. performs a `drush cc drush`
 
 Any outdated alias file will be replaced with the new downloaded one.
