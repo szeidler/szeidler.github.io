@@ -1,5 +1,3 @@
-# szeidler.github.io
-
 ## Presentations
 
 * [Media Fotoweb for Drupal 7](https://szeidler.github.io/fotoweb-presentation/) (25.05.2017 @ RamsaltCamp Lofoten)
