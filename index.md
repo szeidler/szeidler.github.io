@@ -1,5 +1,6 @@
 ## Presentations
 
+* [How to replace Entityqueue with Layout Builder and shifting blocks](https://szeidler.github.io/shifting-layout-blocks-presentation/) (07.03.2019 @ Drupal Usergroup Berlin)
 * [Contenta CMS - Decoupled Drupal Starter Kit](https://szeidler.github.io/contentacms-presentation/) (01.02.2018 @ Drupal Usergroup Berlin)
 * [Media Fotoweb for Drupal 7](https://szeidler.github.io/fotoweb-presentation/) (25.05.2017 @ RamsaltCamp Lofoten)
 * [Patching modules without tears – Using a Drush Patch File](https://docs.google.com/a/ramsalt.com/presentation/d/1GCnHI25R-71VnSEQE3ay_kg-S0UccLaS1_5EfSgrgVM/embed?start=false&loop=false&delayms=3000&usp=embed_googleplus) (03.11.2016 @ Drupal Usergroup Berlin)
